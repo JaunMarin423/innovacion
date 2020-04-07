@@ -18,13 +18,6 @@
 
 
 
-
-
-
-| HTML | React | Vue  |
-| --- | --- | ---  |
-| [![Material Kit  HTML](https://github.com/creativetimofficial/public-assets/blob/master/material-kit/material-kit.jpeg?raw=true)](https://www.creative-tim.com/product/material-kit)  | [![Material Kit  React](https://github.com/creativetimofficial/public-assets/blob/master/material-kit-react/material-kit-react.jpeg?raw=true)](https://www.creative-tim.com/product/material-kit-react)  | [![Vue Material Kit](https://github.com/creativetimofficial/public-assets/blob/master/vue-material-kit/vue-material-kit.jpeg?raw=true)](https://www.creative-tim.com/product/vue-material-kit)
-
 | React Native | Figma | WordPress |
 | ---  | --- | --- |
 | [![Material Kit React Native](https://github.com/creativetimofficial/public-assets/blob/master/material-kit-react-native/opt_mkrn_thumbnail.jpg?raw=true)](https://www.creative-tim.com/product/material-kit-react-native) | [![Material Kit Figma](https://github.com/creativetimofficial/public-assets/blob/master/material-kit-figma/material-kit-figma.jpg?raw=true)](https://demos.creative-tim.com/material-kit-figma/presentation.html) | [![Material Kit WordPress](https://github.com/creativetimofficial/public-assets/blob/master/material-kit-wordpress/opt_smd_thumbnail.jpg?raw=true)](https://themeisle.com/themes/hestia/?ref=creativetim)
