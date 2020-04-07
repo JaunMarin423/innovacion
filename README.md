@@ -173,14 +173,6 @@ At present, we officially aim to support the last two versions of the following 
 - Issues: [Github Issues Page](https://github.com/creativetimofficial/material-kit-react/issues)
 - **Dashboards:**
 
-| HTML | React | Vue  | Angular |
-| --- | --- | ---  | ---  |
-| [![Material Dashboard  HTML](https://github.com/creativetimofficial/public-assets/blob/master/material-dashboard-html/material-dashboard.jpeg?raw=true)](https://www.creative-tim.com/product/material-dashboard) | [![Material Dashboard  React](https://github.com/creativetimofficial/public-assets/blob/master/material-dashboard-react/material-dashboard-react.jpeg?raw=true)](https://www.creative-tim.com/product/material-dashboard-react) | [![Vue Material Dashboard](https://github.com/creativetimofficial/public-assets/blob/master/vue-material-dashboard/vue-material-dashboard.jpeg?raw=true)](https://www.creative-tim.com/product/vue-material-dashboard)  | [![ Material Dashboard Angular](https://github.com/creativetimofficial/public-assets/blob/master/material-dashboard-angular/material-dashboard-angular.jpg?raw=true)](https://www.creative-tim.com/product/material-dashboard-angular2)
-
-| HTML Dark | Vuetify  |
-| --- | --- |
-| [![Material Dashboard Dark](https://github.com/creativetimofficial/public-assets/blob/master/material-dashboard-dark/material-dashboard-dark.jpg?raw=true)](https://www.creative-tim.com/product/material-dashboard-dark) | [![Material Dashboard Vuetify](https://github.com/creativetimofficial/public-assets/blob/master/material-dashboard-vuetify/material-dashboard-vuetify.jpg?raw=true)](https://www.creative-tim.com/product/vuetify-material-dashboard)
-
 ## Reporting Issues
 
 We use GitHub Issues as the official bug tracker for the Material Kit. Here are some advices for our users that want to report an issue:
